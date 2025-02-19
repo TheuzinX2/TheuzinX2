@@ -2,12 +2,8 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheuzinX2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
 
-<div align="right">
-  <img height="200" src="https://github.com/user-attachments/assets/94017300-7223-4985-b5e9-99ba4d06cee9"  />
-</div>
+<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/94017300-7223-4985-b5e9-99ba4d06cee9">
 
 <h3 align="left">My Stack ~</h3>
 
@@ -29,7 +25,14 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
+#
+
+<div style="text-align: center;" align="center">
+  <h3>* GitHub Stats *</h3>
+  <br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TheuzinX2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
 
 <br clear="both">
 
